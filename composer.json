@@ -1,6 +1,6 @@
 {
   "name": "jjdoor/swagger-lume",
-  "description": "Swagger integration to Lumen 5",
+  "description": "Swagger integration to Lumen 7",
   "keywords": ["lumen", "laravel", "swagger"],
   "license": "MIT",
   "authors": [
